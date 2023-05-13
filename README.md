@@ -1,4 +1,4 @@
-# DataAnalystEdu
+# DataScienceEdu
 
 ## Editing the file
 
